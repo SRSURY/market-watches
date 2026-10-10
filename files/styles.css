@@ -1,0 +1,14 @@
+body {
+  font-family: 'Playfair Display', system-ui, sans-serif;
+}
+
+.card h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+}
+
+.card p {
+  font-weight: 400;
+}
