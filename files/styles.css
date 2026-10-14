@@ -3,12 +3,29 @@ body {
 }
 
 .card h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 300;
+  font-family: 'Montserrat-eb', sans-serif;
+  font-weight: 650;
   text-transform: uppercase;
   letter-spacing: .15em;
 }
 
 .card p {
-  font-weight: 400;
+  font-weight: 10;
+}
+
+.author {
+  font-family: 'Montserrat-eb', sans-serif;
+  font-weight: 600;
+  font-size: .8rem;
+  letter-spacing: .1em;
+  color: var(--text);
+}
+
+.signature {
+  font-family: 'Allura', cursive;
+  font-weight: 10;
+  font-size: 1.7rem;     
+  letter-spacing: normal;
+  text-transform: none;
+  color: var(--accent); 
 }
